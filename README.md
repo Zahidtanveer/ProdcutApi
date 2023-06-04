@@ -4,14 +4,22 @@ We are looking for problem solvers and motivated candidates.
 As for that, we would like you to do a project so we can understand how you code, your thinking
 and your amazing technical skills.
 The goal is to create an inventory with :
-
 ● Products
-○ Name
-○ Barcode
-○ Description
-○ Category name
-○ Weighted or Non Weighted
-○ Product Status (Sold, inStock, Damaged)
+<ul>
+        <li>○ Name</li>
+ <li>○ Barcode</li>
+ <li>○ Description</li>
+         <li>○ Category name</li>
+          <li>○ Weighted or Non Weighted</li>
+          <li>○ Product Status (Sold=2, inStock=1, Damaged=3)</li>
+</ul>
+
+
+
+
+
+
+
 
 Using DDD, SQL server, EF Core for the database provider, .Net core, no UI needed.
 Create 3 APIs
