@@ -6,15 +6,15 @@ and your amazing technical skills.
 The goal is to create an inventory with :
 
 <br>
-
+<b>Products</b>
 <ul>
-        <li>● Products</li>
-        <li>○ Name</li>
- <li>○ Barcode</li>
- <li>○ Description</li>
-         <li>○ Category name</li>
-          <li>○ Weighted or Non Weighted</li>
-          <li>○ Product Status (Sold=2, inStock=1, Damaged=3)</li>
+       
+        <li>Name</li>
+ <li>Barcode</li>
+ <li>Description</li>
+         <li>Category name</li>
+          <li>Weighted or Non Weighted</li>
+          <li>Product Status (Sold=2, inStock=1, Damaged=3)</li>
 </ul>
 
 
