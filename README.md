@@ -7,14 +7,14 @@ The goal is to create an inventory with :
 
 <br>
 <b>Products</b>
+
 <ul>
-       
-        <li>Name</li>
+ <li>Name</li>
  <li>Barcode</li>
  <li>Description</li>
-         <li>Category name</li>
-          <li>Weighted or Non Weighted</li>
-          <li>Product Status (Sold=2, inStock=1, Damaged=3)</li>
+ <li>Category name</li>
+ <li>Weighted or Non Weighted</li>
+ <li>Product Status (Sold=2, inStock=1, Damaged=3)</li>
 </ul>
 
 
