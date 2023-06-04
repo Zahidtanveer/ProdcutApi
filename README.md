@@ -22,19 +22,149 @@ Personal initiatives or additional suggestions are recommended and will be taken
 consideration.
 
 Intitial Product Seeder Data Similar to this 
-Id	Name	CategoryName	BarCode	Description	Weighted	Status
-1	Product 1	4064094945	4064094945	Description 1	0	1
-2	Product 2	Category 2	3377284853	Description 2	1	3
-3	Product 3	Category 3	8443485118	Description 3	0	2
-4	Product 4	Category 4	4804413121	Description 4	1	3
-5	Product 5	Category 5	4597058511	Description 5	0	1
-6	Product 6	Category 6	5490756098	Description 6	1	2
-7	Product 7	Category 7	8050728386	Description 7	0	1
-8	Product 8	Category 8	4515659483	Description 8	1	3
-9	Product 9	Category 9	6618784331	Description 9	0	2
-10	Product 10	Category 10	3812409477	Description 10	1	3
-11	Product 11	Category 11	7726221736	Description 11	0	1
-12	Product 12	Category 12	7032393308	Description 12	1	2
-13	Product 13	Category 13	8797104960	Description 13	0	1
-14	Product 14	Category 14	8718339691	Description 14	1	3
-15	Product 15	Category 15	5910701155	Description 15	0	2
+<table>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>CategoryName</th>
+            <th>BarCode</th>
+            <th>Description</th>
+            <th>Weighted</th>
+            <th>Status</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Product 1</td>
+            <td>Category 1</td>
+            <td>4064094945</td>
+            <td>Description 1</td>
+            <td>0</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Product 2</td>
+            <td>Category 2</td>
+            <td>3377284853</td>
+            <td>Description 2</td>
+            <td>1</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Product 3</td>
+            <td>Category 3</td>
+            <td>8443485118</td>
+            <td>Description 3</td>
+            <td>0</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Product 4</td>
+            <td>Category 4</td>
+            <td>4804413121</td>
+            <td>Description 4</td>
+            <td>1</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Product 5</td>
+            <td>Category 5</td>
+            <td>4597058511</td>
+            <td>Description 5</td>
+            <td>0</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Product 6</td>
+            <td>Category 6</td>
+            <td>5490756098</td>
+            <td>Description 6</td>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Product 7</td>
+            <td>Category 7</td>
+            <td>8050728386</td>
+            <td>Description 7</td>
+            <td>0</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Product 8</td>
+            <td>Category 8</td>
+            <td>4515659483</td>
+            <td>Description 8</td>
+            <td>1</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Product 9</td>
+            <td>Category 9</td>
+            <td>6618784331</td>
+            <td>Description 9</td>
+            <td>0</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Product 10</td>
+            <td>Category 10</td>
+            <td>3812409477</td>
+            <td>Description 10</td>
+            <td>1</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Product 11</td>
+            <td>Category 11</td>
+            <td>7726221736</td>
+            <td>Description 11</td>
+            <td>0</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Product 12</td>
+            <td>Category 12</td>
+            <td>7032393308</td>
+            <td>Description 12</td>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Product 13</td>
+            <td>Category 13</td>
+            <td>8797104960</td>
+            <td>Description 13</td>
+            <td>0</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Product 14</td>
+            <td>Category 14</td>
+            <td>8718339691</td>
+            <td>Description 14</td>
+            <td>1</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Product 15</td>
+            <td>Category 15</td>
+            <td>5910701155</td>
+            <td>Description 15</td>
+            <td>0</td>
+            <td>2</td>
+        </tr>
+    </table>
