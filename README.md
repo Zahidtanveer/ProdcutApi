@@ -4,8 +4,11 @@ We are looking for problem solvers and motivated candidates.
 As for that, we would like you to do a project so we can understand how you code, your thinking
 and your amazing technical skills.
 The goal is to create an inventory with :
-● Products
+
+<br>
+
 <ul>
+        <li>● Products</li>
         <li>○ Name</li>
  <li>○ Barcode</li>
  <li>○ Description</li>
